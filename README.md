@@ -1,5 +1,5 @@
 # Оглавление
-- [Занятие 1](READMI-2.md)
+- [Занятие 1](README-2.md)
 - [Профессии webdev](README-3.md)
 - [Frontend](README-4.md)
 - [Нужные навыки](README-5.md)
@@ -9,4 +9,4 @@
 - [Git](README-9.md)
 - [Задание1](README-10.md)
 
-[Вперед](READMI-2.md)
+[Вперед](README-2.md)

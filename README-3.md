@@ -11,4 +11,4 @@
 * DevOps
 * Архитектура
 
-[Назад](READMI-2.md) [Вперед](READMI-4.md)
+[Назад](README-2.md) [Вперед](README-4.md)
